@@ -250,12 +250,9 @@ GOOGLE_CLIENT_ID=xxxx
 
 ## 👨‍💻 Author
 
-**Ajayvarman K**
-Final Year CS Student | MERN Stack Developer
+*R VAIGARAN*
+Final Year CS Student
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-ajay06.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajayvarman-26x)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AJayvarman0626)
 
 ---
 
